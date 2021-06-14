@@ -14,10 +14,6 @@
     "dev": "webpack --progress --colors --watch",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vyasriday/webpack-js-library.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
